@@ -9,7 +9,7 @@
 
 ## **[2]** Hàm encrypt:
 - Hàm trả về giá trị của biến `v12`
-- Chia thành các case phụ thuộc vào giá trị mà i được gán
+- Chia thành các case phụ thuộc vào giá trị mà `i` được gán
 ![alt text](../../../images/rev3-3.png)
 - Các case lần lượt gán các giá trị cho biến `v12` với các giá trị trong bảng chữ cái `alphabet` tại các vị trí được tính toán bằng các phép thao tác với toán tử bit `>>`, `&`, `|`.
 
